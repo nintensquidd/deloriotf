@@ -319,7 +319,8 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		background-image: url("images/koth2fort.jpg")
+		background-image: url("images/koth2fort.jpg") no-repeat fixed center;
+		
 	}
 
 	#header
