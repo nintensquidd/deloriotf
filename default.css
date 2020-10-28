@@ -319,7 +319,10 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		background-image: url("images/koth2fort.jpg") no-repeat fixed center;
+		background-image: url("images/koth2fort.jpg");
+		background-repeat: no-repeat;
+		background-attatchment: fixed;
+		background-size: cover;
 		
 	}
 
