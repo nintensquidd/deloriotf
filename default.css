@@ -319,11 +319,12 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
+		background-image: url("images/koth2fort.jpg")
 	}
 
 	#header
 	{
-		background-image: url(images/download(5).jpg)
+		
 	}
 
 
